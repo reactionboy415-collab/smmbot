@@ -23,7 +23,7 @@ def run_web_server():
     app.run(host='0.0.0.0', port=10000)
 
 # --- CONFIGURATION ---
-BOT_TOKEN = "8266090809:AAGBogvJFCLKaBd_95RyAaGmuc8NhnLYzNw"
+BOT_TOKEN = "8266090809:AAF4B3NFzkuT-_8zvvH33fumUg64VG8Scew"
 ADMIN_ID = 7840042951
 CHANNEL_USERNAME = "@CatalystMystery"
 API_URL = "https://monadze.com/fgm/api.php"
